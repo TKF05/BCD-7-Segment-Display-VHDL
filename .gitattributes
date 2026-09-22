@@ -1,0 +1,4 @@
+*.vhd linguist-language=VHDL
+*.vhdl linguist-language=VHDL
+*.xdc linguist-language=VHDL
+
